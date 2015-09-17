@@ -10,7 +10,7 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            int a = 10;
+            int a = 101;
 
         }
     }
